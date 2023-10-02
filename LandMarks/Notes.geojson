@@ -1,0 +1,5 @@
+https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes
+Section 3 (Draw The badge symbol)
+
+
+Note during step 5 of section 3, ".fill(Self.symbolColor)" (Not Working) Corected to ".fill(BadgeSymbol.symbolColor)" (Working).
